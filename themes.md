@@ -6,7 +6,7 @@
 |---|------|------|------|------|
 | 1 | `per-unit` | 标幺值 | done | 基准选取与换算 |
 | 2 | `thd` | 谐波与 THD | done | 定义与 IEEE 519 量级 |
-| 3 | `pwm` | PWM 与 SPWM | todo | 调制比、载波比 |
+| 3 | `pwm` | PWM 与 SPWM | done | 调制比、载波比 |
 | 4 | `motor-equations` | 电机基本方程 | todo | 直流 / 异步 |
 | 5 | `phasors` | 相量与复数运算 | todo | 极坐标 ↔ 直角坐标 |
 | 6 | `three-phase-power` | 三相功率 | todo | P/Q/S，星/三角 |
