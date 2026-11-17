@@ -6,4 +6,5 @@
 | 2026-10-27 | `thd` | 谐波与 THD（Harmonics and THD） | [sheets/thd.md](sheets/thd.md) |
 | 2026-11-03 | `pwm` | PWM 与 SPWM（Pulse-Width Modulation / Sinusoidal PWM） | [sheets/pwm.md](sheets/pwm.md) |
 | 2026-11-10 | `motor-equations` | 电机基本方程（Motor Basic Equations：DC / Induction） | [sheets/motor-equations.md](sheets/motor-equations.md) |
+| 2026-11-17 | `phasors` | 相量与复数运算（Phasors and Complex Arithmetic） | [sheets/phasors.md](sheets/phasors.md) |
 <!-- 自动化在此表追加新行，最新在下 -->
